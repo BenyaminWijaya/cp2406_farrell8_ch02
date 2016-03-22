@@ -6,9 +6,9 @@ public class DebugTwo2
       int a, b;
       a = 7;
       b = 4;
-      sum = a + b;
-      difference = a - b;
-      product = a * b;
+      int sum = a + b;
+      int difference = a - b;
+      int product = a * b;
       System.out.println("The sum is " + sum);
       System.out.println("The difference is " + difference);
       System.out.println("The product is " + product);
