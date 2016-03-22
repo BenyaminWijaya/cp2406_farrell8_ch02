@@ -8,7 +8,7 @@ public class DebugTwo3
       result = a % b;
       System.out.println("Divide " + a + " by " + b);
       System.out.println("remainder is " + result);
-      System.out.print("c is a very large number: ");
-      System.out.println(c);
+      System.out.println("c is a very large number: ");
+      System.out.print(c);
     }
 }
